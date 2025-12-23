@@ -40,15 +40,7 @@ To begin, ensure the following tools are installed on your system:
 
 ## 🚀 Preparing Your Environment
 
-1. **Fork this repo** on GitHub.
-
-2. **Clone your forked copy:**
-
-   ```bash
-   # Replace xxxxxx with your GitHub username or org
-   git clone https://github.com/xxxxxx/house-price-predictor.git
-   cd house-price-predictor
-   ```
+1. create a project folder with above folder structure or fork from github
 
 3. **Setup Python Virtual Environment using UV:**
 
